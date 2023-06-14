@@ -21,9 +21,9 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<div align="right">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+</div>
 
 
 
