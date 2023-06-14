@@ -1,6 +1,5 @@
 <p>
-    <h4 align="left">Yağız Mehmet Demir</h4>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
+    <h4 align="left">Yağız Mehmet Demir</h4><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
 </p>
 
 <!-- <div align="left">
