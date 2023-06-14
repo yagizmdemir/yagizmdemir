@@ -6,6 +6,7 @@
 
 </div>
 
+<div>
 <div align="right">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=default#gh-dark-mode-only)](https://github.com/yagizmdemir/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
@@ -39,6 +40,7 @@
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
+</div>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yagizmdemir/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
