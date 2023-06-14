@@ -1,6 +1,26 @@
-<h4 align="left">Yağız Mehmet Demir</h4>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
+<h2 align="left">Yağız Mehmet Demir</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
 
+<h1 align="center">Hi, I'm Yağız Mehmet DEMİR</h1>
+<p align="center">
+  JavaScript & Front-end & React.js developer from Turkey
+</p>
+<p align="center">
+  💻 I love writing code and learning anything about it
+</p>
+<p align="center">
+  🌱 I'm passionate about development and enjoy working in teams
+</p>
+<p align="center">
+  💻 I’m currently developing ERP system for textile factory with JavaScript & Node.js & Next.js & Electron
+</p>
+<p align="center">
+  💬 Feel free to reach out to me <a href="https://github.com/yagizmdemir/yagizmdemir/issues" title="Issues">here</a>
+</p>
+
+<p align="center">
+  📫 How to reach me: <a href="mailto:yagizmdemir@gmail.com">yagizmdemir@gmail.com</a>
+</p>
 <!-- <div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizmdemir&layout=compact)
@@ -14,24 +34,6 @@
 
 </div>
 
-<p align="left">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yagizmdemir/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
