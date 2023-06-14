@@ -1,6 +1,6 @@
 <h2 align="left">Yağız Mehmet Demir</h2>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
-
+<br>
 <div align="center">
   <h1 align="center">Hi, I'm Yağız Mehmet DEMİR</h1>
   <p align="center">
