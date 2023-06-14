@@ -9,8 +9,8 @@
 <div>
 <div align="right">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=default#gh-dark-mode-only)](https://github.com/yagizmdemir/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/yagizmdemir/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yagizmdemir&rank_icon=github&theme=default#gh-dark-mode-only)](https://github.com/yagizmdemir/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yagizmdemir&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/yagizmdemir/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 </div>
 
