@@ -1,26 +1,27 @@
 <h2 align="left">Yağız Mehmet Demir</h2>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yagizmdemir.yagizmdemir">
 
-<h1 align="center">Hi, I'm Yağız Mehmet DEMİR</h1>
-<p align="center">
-  JavaScript & Front-end & React.js developer from Turkey
-</p>
-<p align="center">
-  💻 I love writing code and learning anything about it
-</p>
-<p align="center">
-  🌱 I'm passionate about development and enjoy working in teams
-</p>
-<p align="center">
-  💻 I’m currently developing ERP system for textile factory with JavaScript & Node.js & Next.js & Electron
-</p>
-<p align="center">
-  💬 Feel free to reach out to me <a href="https://github.com/yagizmdemir/yagizmdemir/issues" title="Issues">here</a>
-</p>
-
-<p align="center">
-  📫 How to reach me: <a href="mailto:yagizmdemir@gmail.com">yagizmdemir@gmail.com</a>
-</p>
+<div align="center">
+  <h1 align="center">Hi, I'm Yağız Mehmet DEMİR</h1>
+  <p align="center">
+    JavaScript & Front-end & React.js developer from Turkey
+  </p>
+  <p align="center">
+    💻 I love writing code and learning anything about it
+  </p>
+  <p align="center">
+    🌱 I'm passionate about development and enjoy working in teams
+  </p>
+  <p align="center">
+    💻 I’m currently developing ERP system for textile factory with JavaScript & Node.js & Next.js & Electron.js
+  </p>
+  <p align="center">
+    💬 Feel free to reach out to me <a href="https://github.com/yagizmdemir/yagizmdemir/issues" title="Issues">here</a>
+  </p>
+  <p align="center">
+    📫 How to reach me: <a href="mailto:yagizmdemir@gmail.com">yagizmdemir@gmail.com</a>
+  </p>
+</div>
 <!-- <div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizmdemir&layout=compact)
