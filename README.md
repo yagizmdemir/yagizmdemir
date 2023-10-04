@@ -12,7 +12,7 @@
     🌱 I'm passionate about development and enjoy working in teams
   </p>
   <p align="left">
-    💻 I’m currently developing ERP system for textile factory with JavaScript & Node.js & Next.js & Electron.js
+    💻 I’m currently open to work
   </p>
   <p align="left">
     💬 Feel free to reach out to me <a href="https://github.com/yagizmdemir/yagizmdemir/issues" title="Issues">here</a>
